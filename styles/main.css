@@ -25,7 +25,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: var(--color-rose-50);
+  background-color: var(--color-stone-100);
 }
 
 .container {
